@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Joseph
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently studying my 4th year of Computer Science at the University of Waterloo
+- 📫 You can reach me at hello@josephcheng.dev and josephchengdev on [LinkedIn](https://www.linkedin.com/in/josephchengdev/)
+- 🖥️ Find out more about me at [josephcheng.dev](https://josephcheng.dev/)
