@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Joseph
-- 👀 Looking for new grad roles
-- 🌱 I’m currently studying my 4th year of Computer Science at the University of Waterloo
+- 🌱 I recently graduated from the University of Waterloo with a degree in Computer Science.
+- 💼 Incoming SWE @ Amazon
 - 📫 You can reach me at hello@josephcheng.dev and josephchengdev on [LinkedIn](https://www.linkedin.com/in/josephchengdev/)
 - 🖥️ Find out more about me at [josephcheng.dev](https://josephcheng.dev/)
