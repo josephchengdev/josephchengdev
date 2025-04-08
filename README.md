@@ -1,5 +1,1 @@
-- 👋 Hi, I'm Joseph
-- 💼 I'm currently a Software Developer at Google. Previously, I worked at Amazon
-- 🏫 I graduated from the University of Waterloo with a degree in Computer Science
-- 📫 You can reach me at hello@josephcheng.dev and josephchengdev on [LinkedIn](https://www.linkedin.com/in/josephchengdev/)
-- 🖥️ Find out more about me at [josephcheng.dev](https://josephcheng.dev/)
+👋 Hi, I'm Joseph. I’m a Software Engineer at Google, with previous experience at Amazon. I graduated with a degree in Computer Science from the University of Waterloo and enjoy building software that solves meaningful problems with real-world impact. Learn more on my website: [https://www.josephcheng.dev/](https://www.josephcheng.dev/)
